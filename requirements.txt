@@ -1,0 +1,12 @@
+opencv-python
+geocoder
+streamlit
+pandas
+numpy
+requests
+sklearn
+pickle5 
+joblib
+matplotlib
+twilio
+scikit-image
