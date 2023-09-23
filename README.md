@@ -3,7 +3,7 @@
 Dataset - https://www.kaggle.com/datasets/jayacha/accident-images
 
 The main idea is to monitor the roads 24/7 through the camera
-& alert the nearby hospitals and emergency services.
+& alert the nearby hospitals and emergency services, if any accident is detected.
 
 The projects uses cv2 library and neural networks to detect the accidents in a given image.
 
